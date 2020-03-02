@@ -38,6 +38,6 @@ def run(courseNum, sectionNumOG, campusName, subjectName,tag):
 
 while (1):
     for x in range(1, 9):
-        #run(courseNum,campus,courseName,slackID);
+        #run(courseNum, sectionNumOG, campusName, subjectName,tag);
         run(150, x, "UBCO", "ENGL","weejiaquan1234" )
 time.sleep(10)
