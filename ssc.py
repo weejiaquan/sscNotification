@@ -3,7 +3,7 @@ import requests
 import time
 import json
 
-web_hook_url = 'https://hooks.slack.com/services/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'
+web_hook_url = 'API KEY HERE'
 
 
 # courseNum, sectionNum, campusName, subjectNam
